@@ -1,0 +1,61 @@
+City,Month,High,Low
+Los Angeles,January,68,49
+Los Angeles,February,69,51
+Los Angeles,March,70,52
+Los Angeles,April,73,55
+Los Angeles,May,74,58
+Los Angeles,June,79,62
+Los Angeles,July,83,65
+Los Angeles,August,85,66
+Los Angeles,September,83,65
+Los Angeles,October,79,60
+Los Angeles,November,73,53
+Los Angeles,December,68,49
+Seattle,January,46,36
+Seattle,February,50,37
+Seattle,March,54,39
+Seattle,April,58,42
+Seattle,May,64,48
+Seattle,June,69,52
+Seattle,July,73,56
+Seattle,August,74,56
+Seattle,September,69,52
+Seattle,October,59,46
+Seattle,November,50,40
+Seattle,December,45,36
+Boston,January,37,22
+Boston,February,39,24
+Boston,March,46,31
+Boston,April,57,41
+Boston,May,67,50
+Boston,June,77,59
+Boston,July,82,66
+Boston,August,81,65
+Boston,September,73,58
+Boston,October,62,47
+Boston,November,52,38
+Boston,December,42,28
+Miami,January,74,63
+Miami,February,75,64
+Miami,March,77,67
+Miami,April,80,70
+Miami,May,83,74
+Miami,June,86,77
+Miami,July,87,78
+Miami,August,88,79
+Miami,September,86,78
+Miami,October,83,75
+Miami,November,79,70
+Miami,December,76,65
+Chicago,January,23,18
+Chicago,February,36,23
+Chicago,March,47,32
+Chicago,April,59,41
+Chicago,May,70,51
+Chicago,June,80,60
+Chicago,July,84,67
+Chicago,August,83,66
+Chicago,September,76,58
+Chicago,October,64,47
+Chicago,November,50,36
+Chicago,December,37,24
